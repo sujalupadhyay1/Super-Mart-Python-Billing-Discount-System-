@@ -5,7 +5,6 @@ The **Super Mart** project is a simple Python-based billing system created in a 
 It collects customer details, records purchased items, calculates the total bill, and applies discounts based on the number of items bought.
 
 This program is perfect for:
-- Beginners learning Python basics like loops, conditionals, and input handling.
 - Understanding simple billing logic without external libraries.
 - Small shops or training projects for customer billing.
 
